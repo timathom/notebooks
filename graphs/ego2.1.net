@@ -1,0 +1,131 @@
+*Vertices 83
+1 "Georges Dumézil" 260.0476 1031.127 0.0
+2 "François Perrier (psychoanalyst)" -61.486317 948.5696 0.0
+3 "Josette Rey-Debove" 113.84872 930.8427 0.0
+4 "Haroldo de Campos" 526.04834 983.4487 0.0
+5 "Jacqueline Risset" 345.1412 900.89026 0.0
+6 "Mária Török" -159.78539 1486.5294 0.0
+7 "Nicolas Abraham" -134.09103 1502.7917 0.0
+8 "Pavel Tigrid" 709.1905 874.9578 0.0
+9 "Claude Royet-Journoud" 469.5291 782.4987 0.0
+10 "Andrea Zanzotto" 629.05414 713.6842 0.0
+11 "Jacques Garelli" -690.8509 700.93787 0.0
+12 "Abdelwahab Meddeb" -1015.54425 1184.1992 0.0
+13 "Jean Bollack" -1037.4543 1205.169 0.0
+14 "André Green (psychoanalyst)" 871.41394 679.3415 0.0
+15 "Jean-Claude Renard" 718.56146 579.3407 0.0
+16 "Christiane Rochefort" -887.6341 577.6297 0.0
+17 "Maurice Mandelbaum" 800.7865 430.35532 0.0
+18 "Claude Mauriac" -1018.72455 433.89026 0.0
+19 "Jean-Edern Hallier" -729.4054 516.2008 0.0
+20 "Mahmoud Darwish" 939.62463 393.97397 0.0
+21 "Léon Chertok" 1044.1094 110.29012 0.0
+22 "Philippe Muray" -1097.4874 265.18976 0.0
+23 "Jean-Toussaint Desanti" -855.69495 335.8465 0.0
+24 "Michaël Lévinas" 85.07884 120.64118 0.0
+25 "Naguib Mahfouz" 1423.5824 475.29288 0.0
+26 "Naguib Pasha Mahfouz" 1446.8644 488.93607 0.0
+27 "Emmanuel Levinas" 47.25117 84.07257 0.0
+28 "Dado (painter)" 160.2551 -81.13128 0.0
+29 "Benny Lévy" 71.39789 50.722324 0.0
+30 "Jean Dubuffet" 132.97794 -51.814484 0.0
+31 "Gérard Granel" -14.269091 107.93855 0.0
+32 "Max Loreau" 104.66557 -25.699728 0.0
+33 "Sarah Kofman" -103.84788 91.800995 0.0
+34 "Jacques Derrida" -22.794088 23.587648 0.0
+35 "Philippe Lacoue-Labarthe" -68.18465 129.79628 0.0
+36 "Kostas Axelos" 58.767662 -97.97666 0.0
+37 "Daniel Bensaïd" -919.91205 158.67609 0.0
+38 "Richard A. Macksey" -34.49984 -77.396904 0.0
+39 "Naomi Schor" -127.46222 -12.446582 0.0
+40 "Roger Laporte" -164.24388 72.69909 0.0
+41 "Henri Lefebvre" 6.5378876 -146.95245 0.0
+42 "Edgar Morin" -39.30914 -109.7086 0.0
+43 "Morris Philipson" -153.95508 14.272985 0.0
+44 "Roland Barthes" -117.05398 -63.24925 0.0
+45 "Jacques Dupin" -202.01736 39.31356 0.0
+46 "André Pieyre de Mandiargues" -1107.1864 78.8758 0.0
+47 "Yves Bonnefoy" -203.75081 -26.390234 0.0
+48 "André du Bouchet" -280.28537 18.589216 0.0
+49 "Roger Munier" -229.43468 -52.96883 0.0
+50 "Christophe Claro" 898.7988 45.519547 0.0
+51 "Maurice de Gandillac" -933.77875 -33.852646 0.0
+52 "Yosef Hayim Yerushalmi" -1117.2983 -93.239876 0.0
+53 "Jean Tortel" 975.0917 -114.5029 0.0
+54 "Roger Kempf" -935.369 -220.83589 0.0
+55 "Raymond Jean" -1131.6378 -262.07852 0.0
+56 "P. F. Strawson" 1704.4535 -802.39105 0.0
+57 "Pierre Bourdieu" 1734.1095 -802.9648 0.0
+58 "Jean Ricardou" 938.3347 -278.9106 0.0
+59 "Henri Gouhier" 1763.8142 -797.88293 0.0
+60 "Marjorie Grene" -811.4293 -441.9754 0.0
+61 "Alain Suied" -962.45465 -414.0935 0.0
+62 "Abdelkebir Khatibi" -1099.6628 -479.89017 0.0
+63 "José Lezama Lima" 629.3319 -2058.0889 0.0
+64 "Severo Sarduy" 632.997 -2088.2021 0.0
+65 "Emir Rodríguez Monegal" 636.36456 -2118.0803 0.0
+66 "M. H. Abrams" -928.8991 -640.02826 0.0
+67 "Jean Grosjean" -635.16644 -696.78784 0.0
+68 "Albert Boime" -777.8478 -662.4901 0.0
+69 "Jean Gillibert" -818.7223 -838.0609 0.0
+70 "Jean Thibaudeau" -353.6296 -872.8797 0.0
+71 "Ernst Behler" 741.42737 -602.4506 0.0
+72 "Mohammed Khaïr-Eddine" 641.9853 -753.63116 0.0
+73 "Pierre Klossowski" -173.29036 -903.8031 0.0
+74 "Hugo Claus" 212.54198 -868.1391 0.0
+75 "Bernard Benstock" -532.20685 -852.21356 0.0
+76 "Claude Ollier" -674.0774 -963.2872 0.0
+77 "Viviane Forrester" 0.71204084 -929.9417 0.0
+78 "Nicole Loraux" 423.70813 -933.6371 0.0
+79 "Richard Ellmann" -299.43536 -1074.6255 0.0
+80 "Maria-Antonietta Macciocchi" -480.7408 -1068.139 0.0
+81 "Stanislas Breton" 66.71615 -1085.9574 0.0
+82 "Abraham Joshua Heschel" -124.36928 -1146.2 0.0
+83 "Alain Jouffroy" 256.4305 -1042.1968 0.0
+*Arcs
+42 36 1.0
+42 44 1.0
+42 41 1.0
+27 34 1.0
+47 48 1.0
+47 44 1.0
+36 34 1.0
+36 41 1.0
+36 42 1.0
+38 34 1.0
+38 44 1.0
+64 63 1.0
+45 48 1.0
+45 47 1.0
+49 47 1.0
+35 34 1.0
+35 31 1.0
+35 33 1.0
+13 12 1.0
+12 13 1.0
+29 34 1.0
+29 27 1.0
+7 6 1.0
+44 34 1.0
+48 47 1.0
+48 45 1.0
+40 35 1.0
+40 34 1.0
+40 45 1.0
+65 64 1.0
+33 34 1.0
+39 34 1.0
+39 44 1.0
+56 57 1.0
+31 34 1.0
+32 30 1.0
+32 34 1.0
+32 36 1.0
+6 7 1.0
+30 32 1.0
+24 27 1.0
+43 34 1.0
+43 47 1.0
+59 57 1.0
+28 30 1.0
+26 25 1.0
